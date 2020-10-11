@@ -29,12 +29,12 @@ always @(posedge clk or negedge rst_n) begin
         else
             sop <= 1'b0;
 
-        if(count==22'd50001)                    //信号结束标记
+        if(count==22'd2500001)                    //信号结束标记
             eop <= 1'b1;
         else
             eop <= 1'b0;
 
-        if(count>=22'd1 & count <=22'd50000)
+        if(count>=22'd1 & count <=22'd2500000)
             valid <= 1'b1;
         else
             valid <= 1'b0;

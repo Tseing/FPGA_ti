@@ -1,5 +1,5 @@
 Flow report for fft
-Sun Oct 11 00:00:01 2020
+Sun Oct 11 08:11:38 2020
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Full Version
 
 
@@ -40,15 +40,15 @@ applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Sat Oct 10 23:59:54 2020       ;
+; Flow Status                        ; Successful - Sun Oct 11 08:11:32 2020       ;
 ; Quartus II 64-Bit Version          ; 13.1.0 Build 162 10/23/2013 SJ Full Version ;
 ; Revision Name                      ; fft                                         ;
 ; Top-level Entity Name              ; top                                         ;
 ; Family                             ; Cyclone IV E                                ;
 ; Device                             ; EP4CE10F17C8                                ;
 ; Timing Models                      ; Final                                       ;
-; Total logic elements               ; 4,692 / 10,320 ( 45 % )                     ;
-;     Total combinational functions  ; 3,204 / 10,320 ( 31 % )                     ;
+; Total logic elements               ; 4,689 / 10,320 ( 45 % )                     ;
+;     Total combinational functions  ; 3,201 / 10,320 ( 31 % )                     ;
 ;     Dedicated logic registers      ; 4,181 / 10,320 ( 41 % )                     ;
 ; Total registers                    ; 4181                                        ;
 ; Total pins                         ; 39 / 180 ( 22 % )                           ;
@@ -64,7 +64,7 @@ applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 10/10/2020 23:59:02 ;
+; Start date & time ; 10/11/2020 08:10:43 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; fft                 ;
 +-------------------+---------------------+
@@ -75,7 +75,7 @@ applicable agreement for further details.
 +-------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+-------------+------------------+
 ; Assignment Name                     ; Value                                                                                                                                                                                                    ; Default Value ; Entity Name ; Section Id       ;
 +-------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+-------------+------------------+
-; COMPILER_SIGNATURE_ID               ; 238368721277203.160234554216068                                                                                                                                                                          ; --            ; --          ; --               ;
+; COMPILER_SIGNATURE_ID               ; 238368721277203.160237504302056                                                                                                                                                                          ; --            ; --          ; --               ;
 ; ENABLE_SIGNALTAP                    ; On                                                                                                                                                                                                       ; --            ; --          ; --               ;
 ; IP_TOOL_NAME                        ; LPM_ADD_SUB                                                                                                                                                                                              ; --            ; --          ; --               ;
 ; IP_TOOL_NAME                        ; FFT                                                                                                                                                                                                      ; --            ; --          ; --               ;
@@ -307,11 +307,11 @@ applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:00:23     ; 1.0                     ; 4815 MB             ; 00:00:23                           ;
-; Fitter                    ; 00:00:20     ; 1.3                     ; 5484 MB             ; 00:00:26                           ;
-; Assembler                 ; 00:00:02     ; 1.0                     ; 4625 MB             ; 00:00:02                           ;
-; TimeQuest Timing Analyzer ; 00:00:05     ; 2.3                     ; 4750 MB             ; 00:00:06                           ;
-; Total                     ; 00:00:50     ; --                      ; --                  ; 00:00:57                           ;
+; Analysis & Synthesis      ; 00:00:21     ; 1.0                     ; 4817 MB             ; 00:00:21                           ;
+; Fitter                    ; 00:00:18     ; 1.3                     ; 5486 MB             ; 00:00:23                           ;
+; Assembler                 ; 00:00:03     ; 1.0                     ; 4625 MB             ; 00:00:02                           ;
+; TimeQuest Timing Analyzer ; 00:00:05     ; 1.0                     ; 4750 MB             ; 00:00:06                           ;
+; Total                     ; 00:00:47     ; --                      ; --                  ; 00:00:52                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 

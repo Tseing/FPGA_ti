@@ -99,7 +99,7 @@ sub u_sub(
 
 pll u_pll(
     .inclk0         (sys_clk),
-    .c0             (clk_catch)         //1024Hz
+    .c0             (clk_catch)         //20.48kHz
 );
 
 endmodule
