@@ -1,0 +1,29 @@
+
+
+F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.v
+
+Oct 11 02PM:07:42>: File F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.cnxerr could not be opened
+
+F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.v
+
+Oct 11 02PM:07:54>: File F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.cnxerr could not be opened
+
+F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.v
+
+Oct 11 02PM:08:09>: File F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.cnxerr could not be opened
+
+F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/fftcore.v
+
+Oct 11 02PM:08:13>: File F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/fftcore.cnxerr could not be opened
+
+F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.v
+
+Oct 11 02PM:08:38>: File F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.cnxerr could not be opened
+
+F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.v
+
+Oct 11 02PM:09:18>: File F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/pll.cnxerr could not be opened
+
+F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/fftcore.v
+
+Oct 11 02PM:09:26>: File F:/Code/FPGA_ti/fft_burst - ?¡À¡À?/par/ipcore/fftcore.cnxerr could not be opened
