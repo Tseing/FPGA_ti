@@ -20,9 +20,13 @@ wire    [23:0]  amp_3;
 wire    [23:0]  amp_4;
 wire    [23:0]  amp_5;
 wire    [39:0]  THD;
+wire    [25:0]  sum;
+wire    [51:0]  mult_sum; 
 
 assign data_out = source_sop || catch_flag ? 1'd0 : THD;
-assign THD = 27'd100000000*(amp_2+amp_3+amp_4+amp_5)/amp_1;
+assign sum = amp_2+amp_3+amp_4+amp_5;/*synthesis keep*/
+assign mult_sum = 27'd100000000*sum;/*synthesis keep*/
+assign THD = mult_sum/amp_1;
 
 
 //FFT频谱计算模块
